@@ -1,4 +1,4 @@
-class StampedeCli < Formula
+class Stampede < Formula
   desc "CLI for Stampede Framework"
   homepage ""
   url "https://github.com/bashovski/stampede-cli/archive/alpha.tar.gz"
